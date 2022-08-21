@@ -1,3 +1,3 @@
-module github.com/realbucksavage/openrgb-go
+module github.com/gethiox/openrgb-go
 
 go 1.14
